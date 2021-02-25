@@ -1,0 +1,6 @@
+Revision history for Perl extension Avocet::dbtools.
+
+0.01  Thu Sep 29 11:42:54 2016
+	- original version; created by h2xs 1.23 with options
+		-X -A -b 5.5.6 -n Avocet::dbtools
+
